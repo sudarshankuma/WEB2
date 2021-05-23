@@ -1,0 +1,50 @@
+
+header{
+color:white;
+font-size:100px;
+padding-top:10px;
+}
+
+body{
+	background-color:gray;
+}
+nav a{
+	color:white;
+	padding:10px;
+	float:right;
+	text-decoration: none;
+	font-size: 20px;
+	border:solid black;
+}
+nav a:hover{
+	background-color:white;
+	color:black;
+}
+.h-text h1{
+	color:white;
+font-size:30px;
+
+position:absolute;
+	top:40%;
+	
+}
+.h-text h3{
+	color:white;
+	position:absolute;
+	top:300px;
+	
+
+}
+.h-text p{
+	color:white;
+	position:absolute;
+	
+	top:350px;
+}
+.h-text h2{
+	color:black;
+	position:absolute;
+	
+	top:500px;
+	font-size:30px;
+}
