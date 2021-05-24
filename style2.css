@@ -1,0 +1,28 @@
+body{
+	border:20px;
+	padding:20px;
+	shape-outside: square;
+	background-color:black;
+	
+	
+}
+.contact-box{
+	background-color:blue;
+	position:relative;
+	width:180px;
+	color:white;
+}
+footer{
+	color:blue;
+	font-size:20px;
+	margin-top:5px;
+	font-size:20px;
+}
+h1{
+	font-family:arial;
+	color:white;
+}
+.contact{
+padding-top:10px;
+margin-bottom:120px;
+}
